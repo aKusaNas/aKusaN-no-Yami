@@ -1,18 +1,20 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
     <id>com.github.akusanas.akusannoyami</id>
-    <name>aKusaN-no-Yami Template</name>
+    <name>aKusaN-no-Yami</name>
     <vendor>akusanas</vendor>
 
     <depends>com.intellij.modules.platform</depends>
 
-    <resource-bundle>messages.MyBundle</resource-bundle>
+    <description><![CDATA[
+    aKusan's no yami (darkness) Theme.
+
+    A modern, good-looking, pretty dark and colourful theme for IntelliJ IDEA.
+    Later will be made a Light theme too.
+
+    ]]></description>
 
     <extensions defaultExtensionNs="com.intellij">
-        <toolWindow factoryClass="com.github.akusanas.akusannoyami.toolWindow.MyToolWindowFactory" id="MyToolWindow"/>
+        <themeProvider id="com.github.akusanas.akusannoyami" path="/theme/aKusaN_dark.theme.json"/>
     </extensions>
-
-    <applicationListeners>
-        <listener class="com.github.akusanas.akusannoyami.listeners.MyApplicationActivationListener" topic="com.intellij.openapi.application.ApplicationActivationListener"/>
-    </applicationListeners>
 </idea-plugin>
