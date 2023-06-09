@@ -3,6 +3,7 @@
     <id>com.github.akusanas.akusannoyami</id>
     <name>aKusaN-no-Yami</name>
     <vendor>akusanas</vendor>
+    <version>2.0.2</version>
 
     <depends>com.intellij.modules.platform</depends>
 
@@ -13,6 +14,9 @@
     Later will be made a Light theme too.
 
     ]]></description>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+    <idea-version since-build="222" until-build="232.*"/>
 
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="com.github.akusanas.akusannoyami" path="/theme/aKusaN_dark.theme.json"/>
