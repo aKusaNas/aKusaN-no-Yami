@@ -5,11 +5,15 @@
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/com.github.akusanas.akusannoyami.svg)](https://plugins.jetbrains.com/plugin/com.github.akusanas.akusannoyami)
 
 <!-- Plugin description -->
-aKusan's no yami (darkness) Theme.
 
-A modern, good-looking, pretty dark and colourful theme for IntelliJ IDEA.
+In the realm of software development, where the code and creativity intertwine, a noble IntelliJ IDEA stands tall.
+Embracing the transformative power of the aKusaN's no Yami plugin, this virtuous warrior adorns itself in a modern, good-looking, and vibrant cloak.
+Darkness becomes its canvas, where lines of code emanate poetic elegance and syntax elements dance in vivid hues.
+In its masterful color combination, this plugin eases the path for developers,
+guiding them through the syntax with effortless clarity, ensuring that the code reveals its secrets with every glance.
 
-Later will be made a Light theme too.
+(and yes, its has a light theme too _(_beta_ - may change color scheme in the future)_)
+
 <!-- Plugin description end -->
 
 ## Installation

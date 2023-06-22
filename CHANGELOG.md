@@ -2,12 +2,17 @@
 
 # Changelog
 
-## 2.0.2
+## [2.0.3]
+### Added
+- Gray theme
+- Light theme
+
+## [2.0.2]
 - Version bump
 - Update changelog 
 - Update idea version 
 
-## 2.0.1
+## [2.0.1]
 - Publish
 
 ## [Unreleased]
