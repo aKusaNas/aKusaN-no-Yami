@@ -6,25 +6,10 @@
     <option name="SELECTION_FOREGROUND" value="" />
   </colors>
   <attributes>
-    <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="e74646" />
-      </value>
-    </option>
-    <option name="ABSTRACT_METHOD_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="e74646" />
-      </value>
-    </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="1363df" />
         <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="CLASS_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="1d2428" />
       </value>
     </option>
     <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
@@ -38,19 +23,10 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="ENUM_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="e74646" />
-      </value>
-    </option>
-    <option name="INHERITED_METHOD_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="e74646" />
-      </value>
-    </option>
+    <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="2d31fa" />
+        <option name="FOREGROUND" value="3c79f5" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -62,7 +38,7 @@
     </option>
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="3644" />
+        <option name="FOREGROUND" value="0" />
       </value>
     </option>
     <option name="METHOD_DECLARATION_ATTRIBUTES">
@@ -72,19 +48,13 @@
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="1687a7" />
+        <option name="FOREGROUND" value="25316d" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="2d31fa" />
-        <option name="FONT_TYPE" value="3" />
-      </value>
-    </option>
-    <option name="STATIC_METHOD_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="e74646" />
+        <option name="FOREGROUND" value="25316d" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -94,6 +64,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
+    <option name="ABSTRACT_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
+    <option name="INHERITED_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
   </attributes>
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.2" />

@@ -2,6 +2,10 @@
 
 # Changelog
 
+## [2.0.4]
+### Changed
+- Light theme color scheme
+
 ## [2.0.3]
 ### Added
 - Gray theme
