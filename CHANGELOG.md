@@ -2,6 +2,8 @@
 
 # Changelog
 
+## [Unreleased]
+
 ## [2.0.5]
 
 ### Changed
@@ -28,6 +30,8 @@
 
 ## [2.0.1]
 - Publish
+
+[Unreleased]: https://github.com/aKusaNas/aKusaN-no-Yami/compare/v2.0.4...HEAD
 
 [2.0.5]: https://github.com/aKusaNas/aKusaN-no-Yami/compare/v2.0.3...v2.0.5
 
