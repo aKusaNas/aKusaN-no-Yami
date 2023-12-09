@@ -2,23 +2,37 @@
 
 # Changelog
 
+## [2.0.5]
+
+### Changed
+- Update IJ version 
+
 ## [2.0.4]
+
 ### Changed
 - Light theme color scheme
 
 ## [2.0.3]
+
 ### Added
 - Gray theme
+
 - Light theme
 
 ## [2.0.2]
 - Version bump
+
 - Update changelog 
-- Update idea version 
+
+- Update idea version
 
 ## [2.0.1]
 - Publish
 
-## [Unreleased]
-### Added
-- Initial scaffold created from [IntelliJ Platform Plugin Template](https://github.com/JetBrains/intellij-platform-plugin-template)
+[2.0.4]: https://github.com/aKusaNas/aKusaN-no-Yami/compare/v2.0.3...v2.0.4
+
+[2.0.3]: https://github.com/aKusaNas/aKusaN-no-Yami/compare/v2.0.2...v2.0.3
+
+[2.0.2]: https://github.com/aKusaNas/aKusaN-no-Yami/compare/v2.0.1...v2.0.2
+
+[2.0.1]: https://github.com/aKusaNas/aKusaN-no-Yami/commits/v2.0.1
