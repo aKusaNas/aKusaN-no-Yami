@@ -2,8 +2,6 @@
 
 # Changelog
 
-## [Unreleased]
-
 ## [2.0.5]
 
 ### Changed
@@ -18,27 +16,19 @@
 
 ### Added
 - Gray theme
-
 - Light theme
 
 ## [2.0.2]
 - Version bump
-
 - Update changelog 
-
 - Update idea version
 
 ## [2.0.1]
 - Publish
 
 [Unreleased]: https://github.com/aKusaNas/aKusaN-no-Yami/compare/v2.0.4...HEAD
-
 [2.0.5]: https://github.com/aKusaNas/aKusaN-no-Yami/compare/v2.0.3...v2.0.5
-
 [2.0.4]: https://github.com/aKusaNas/aKusaN-no-Yami/compare/v2.0.5...v2.0.4
-
 [2.0.3]: https://github.com/aKusaNas/aKusaN-no-Yami/compare/v2.0.2...v2.0.3
-
 [2.0.2]: https://github.com/aKusaNas/aKusaN-no-Yami/compare/v2.0.1...v2.0.2
-
 [2.0.1]: https://github.com/aKusaNas/aKusaN-no-Yami/commits/v2.0.1
