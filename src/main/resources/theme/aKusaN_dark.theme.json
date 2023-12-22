@@ -25,13 +25,13 @@
     "bright_purple": "#eb64b9",
     "aqua": "#689d6a",
     "bright_aqua": "#8ec07c",
-    "dark_grey": "#141414"
+    "dark_grey": "#202020"
   },
   "ui": {
     "*": {
       "background": "bg",
       "borderColor": "bg1",
-      "Group.separatorColor": "dark_grey",
+      "Group.separatorColor": "bg2",
       "disabledBorderColor": "bg0",
       "foreground": "fg",
       "hoverBackground": "bg",
@@ -46,7 +46,7 @@
       "selectionBackgroundInactive": "bg2",
       "selectionForeground": "fg",
       "selectionInactiveBackground": "bg1",
-      "separatorColor": "dark_grey",
+      "separatorColor": "bg2",
       "Borders.color": "bg1"
     },
     "CompletionPopup": {
@@ -124,19 +124,19 @@
     },
     "List": {
       "background": "dark_grey",
-      "selectionBackground": "bg1",
+      "selectionBackground": "bg2",
       "selectionForeground":"fg",
       "selectionInactiveBackground": "dark_grey"
     },
     "NavBar.borderColor": "dark_grey",
     "Menu": {
-      "separatorColor": "bg0",
-      "background": "dark_grey"
+      "separatorColor": "bg2",
+      "background": "bg"
     },
     "Popup": {
       "Header.activeBackground": "dark_grey",
       "Header.inactiveBackground": "dark_grey",
-      "separatorColor": "dark_grey",
+      "separatorColor": "bg2",
       "paintBorder": false
     },
     "MemoryIndicator": {
@@ -152,7 +152,7 @@
       "failedEndColor": "#180000"
     },
     "PopupMenu.borderWidth": 0,
-    "PopupMenu.background": "dark_grey",
+    "PopupMenu.background": "bg",
     "PopupMenuSeparator.stripeWidth": 1,
     "SettingsTree.rowHeight": "0",
     "TableHeader.cellBorder": "3,1,3,1",
