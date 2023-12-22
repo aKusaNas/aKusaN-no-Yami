@@ -4,9 +4,6 @@
 
 ## [Unreleased]
 
-### Added
-- Add `README.md` file
-
 ## [2.0.6]
 
 ### Changed
@@ -36,7 +33,8 @@
 ## [2.0.1]
 - Publish
 
-[Unreleased]: https://github.com/aKusaNas/aKusaN-no-Yami/compare/v2.0.4...HEAD
+[Unreleased]: https://github.com/aKusaNas/aKusaN-no-Yami/compare/v2.0.6...HEAD
+[2.0.6]: https://github.com/aKusaNas/aKusaN-no-Yami/compare/v2.0.5...v2.0.6
 [2.0.5]: https://github.com/aKusaNas/aKusaN-no-Yami/compare/v2.0.3...v2.0.5
 [2.0.4]: https://github.com/aKusaNas/aKusaN-no-Yami/compare/v2.0.5...v2.0.4
 [2.0.3]: https://github.com/aKusaNas/aKusaN-no-Yami/compare/v2.0.2...v2.0.3
