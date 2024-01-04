@@ -4,6 +4,11 @@
 
 ## [Unreleased]
 
+## [2.0.7]
+
+### Changed
+- Updated Dark theme color scheme
+
 ## [2.0.6]
 
 ### Changed
