@@ -38,7 +38,8 @@
 ## [2.0.1]
 - Publish
 
-[Unreleased]: https://github.com/aKusaNas/aKusaN-no-Yami/compare/v2.0.6...HEAD
+[Unreleased]: https://github.com/aKusaNas/aKusaN-no-Yami/compare/v2.0.7...HEAD
+[2.0.7]: https://github.com/aKusaNas/aKusaN-no-Yami/compare/v2.0.6...v2.0.7
 [2.0.6]: https://github.com/aKusaNas/aKusaN-no-Yami/compare/v2.0.5...v2.0.6
 [2.0.5]: https://github.com/aKusaNas/aKusaN-no-Yami/compare/v2.0.3...v2.0.5
 [2.0.4]: https://github.com/aKusaNas/aKusaN-no-Yami/compare/v2.0.5...v2.0.4
