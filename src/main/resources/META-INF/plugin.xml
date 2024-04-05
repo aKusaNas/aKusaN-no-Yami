@@ -3,12 +3,12 @@
     <id>com.github.akusanas.akusannoyami</id>
     <name>aKusaN-no-Yami</name>
     <vendor>akusanas</vendor>
-    <version>2.0.7</version>
+    <version>2.0.8</version>
 
     <depends>com.intellij.modules.platform</depends>
 
     <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
-    <idea-version since-build="232" until-build="233.*"/>
+    <idea-version since-build="222" until-build="241.*"/>
 
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="com.github.akusanas.akusannoyami" path="/theme/aKusaN_dark.theme.json"/>
