@@ -76,6 +76,11 @@ tasks {
         gradleVersion = properties("gradleVersion").get()
     }
 
+   
+    runPluginVerifier {
+        ideVersions.set(listOf("2025.1"))
+    }
+
     patchPluginXml {
         version = properties("pluginVersion")
         sinceBuild = properties("pluginSinceBuild")
