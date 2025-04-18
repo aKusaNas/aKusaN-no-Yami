@@ -4,6 +4,11 @@
 
 ## [Unreleased]
 
+## [2.0.12]
+
+### Changed
+- Update IJ version
+
 ## [2.0.11]
 
 ### Changed
